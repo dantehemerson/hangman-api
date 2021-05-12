@@ -57,7 +57,7 @@
     "mongoose": "5.9.16",
     "nestjs-dataloader-dan": "2.0.5",
     "nestjs-typegoose": "^7.1.16",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "passport": "^0.4.0",
     "passport-google-oauth": "^2.0.0",
     "passport-jwt": "^4.0.0",
